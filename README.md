@@ -15,4 +15,4 @@ Welcome to the Squid Game-themed website! This project is designed to allow user
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/squid-game-website.git
+   git clone https://github.com/fayaz-muhammed/squid-game.git
